@@ -1,0 +1,15 @@
+/node_modules/
+/build/
+.idea/
+
+node_modules
+
+#Buidler files
+cache
+artifacts
+coverage
+coverage.json
+
+.env
+
+/Flattened
